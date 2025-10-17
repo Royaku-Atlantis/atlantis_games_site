@@ -1,0 +1,52 @@
+body{font-family: calibri;}
+h1
+{
+	text-align: center;
+    font-style: bold;
+    size: 15;
+    color: rgb(229, 157, 246);
+	background-color: rgb(48, 16, 103);   
+}
+h2
+{
+    text-align: left;
+    font-style: bold;
+	color: cyan;
+}
+p
+{
+    text-align: left;
+    font-style: normal;
+    color: white;
+}
+
+a
+{
+    color:rgb(148, 176, 218);
+    font-style: underline;
+}
+
+a:hover
+{
+    color:rgb(255, 110, 250);
+    font-style: bold;
+}
+
+body
+{
+    background-image: url("images/bricks_background.png");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: scroll;
+}
+
+main
+{
+    background-color: #120523;
+    border-width: 120px;
+    border: thick double #e695de;
+    border-radius: 5% 5% 5% 5%;
+    margin: auto;
+    width: 70%;
+    padding: 15px;	
+}
