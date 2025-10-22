@@ -48,11 +48,13 @@ p{
 a{
     color:rgb(148, 176, 218);
     font-style: underline;
+	size: 15;
 }
 a:hover{
     color:rgb(255, 110, 250);
     font-style: bold;
     text-align: justify;
+	size: 16;
 }
 
 /* object */
